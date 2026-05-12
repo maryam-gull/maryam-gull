@@ -73,7 +73,7 @@
 ![Badge Management](./images/Affiliation-badge-management.png)
 
 ### Daily Report
-![Daily Report](./images/Affiliation conference  Daily report.png)
+![Daily Report](./images/Affiliation-conference-Daily-report.png)
 
 ### Agenda
 ![Agenda](./images/conference-conference-agenda.png)
