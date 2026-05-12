@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Khan</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maryam-gull&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-gull" />
+</p>
 <h3 align="center">Frontend Developer (React.js | Next.js | Redux Toolkit)</h3>
 
 <p align="center">
@@ -80,6 +83,18 @@ Responsive dashboards with analytics cards, tables, filters, and API integration
 ![GitHub Streak](https://streak-stats.demolab.com?user=maryam-gull&)
 
 </div>
+<div align="center">
+
+<a href="https://github.com/maryam-gull">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/maryam-khan-b687112aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
 
 
 ## 📫 Connect with me
