@@ -55,6 +55,11 @@
 . CRUD Operations <br/>
 . API-driven tables
 
+## 📸 Screenshots
+
+![Dashboard](./images/ems/dashboard.png)
+
+
   ##  Tech Used
 
 React.js, Redux Toolkit, Material UI, REST APIs
