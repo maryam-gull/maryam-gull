@@ -57,7 +57,32 @@
 
 ## 📸 Screenshots
 
-![Dashboard](./images/ems/dashboard.png)
+### Dashboard
+![Dashboard](./images/ems-dashboard-event.png)
+
+### Conference Dashboard
+![Conference](./images/conference-ms-collection.png)
+
+### Group Registration
+![Registration](./images/conference-group-registration.png)
+
+### Home Page Settings
+![Home Settings](./images/admin-add-home-page.png)
+
+### Affiliation Badge Management
+![Badge Management](./images/Affiliation-badge-management.png)
+
+### Daily Report
+![Daily Report](./images/Affiliation conference  Daily report.png)
+
+### Agenda
+![Agenda](./images/conference-conference-agenda.png)
+
+### Terms & Conditions
+![Terms](./images/conference-terms-and-conditions.png)
+
+### Participant Orders
+![Orders](./images/conference-participant-orders.png)
 
 
   ##  Tech Used
