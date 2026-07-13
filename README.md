@@ -58,7 +58,7 @@
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](./images/ems-dashboard-event.png)
+![Dashboard](images/ems-dashboard-event.png)
 
 ### Conference Dashboard
 ![Conference](./images/conference-ms-collection.png)
